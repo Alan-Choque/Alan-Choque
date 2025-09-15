@@ -8,7 +8,7 @@ I love to learn and build something new, productive, innovative and creative.
   - Node.js
   - Angular
   - Dart
-- Reach  out to me at: victorchoque092@gmail.com
+- Reach  out to me at: alan39.chok@gmail.com
 
 ## My Skills Include
 
