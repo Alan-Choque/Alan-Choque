@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Alan Choque </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3> 👨🏻‍💻 About Me </h3>
-I am a system engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development.
+I am a System Engineering student currently halfway through my degree.  
+I specialize in Data Science, Web Development(front-end & back-end), and Mobile Development(front-end).  
 I love to learn and build something new, productive, innovative and creative.
 
 - <img src="https://media.giphy.com/media/gicLJtvYJlEh0LSdCl/giphy.gif" width="30px">&nbsp;I’m currently learning&nbsp;... 
